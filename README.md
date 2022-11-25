@@ -153,10 +153,17 @@ public class Perceptron : MonoBehaviour {
 Построить графики зависимости количества эпох от ошибки обучения.
 График зависимости  количества эпох от ошибки обучения для OR:
 ![image](https://user-images.githubusercontent.com/114181560/204036513-521730eb-2f85-4299-9f42-5aa112a66c9f.png)
+Количество эпох обученя зависит от 
 
 График зависимости  количества эпох от ошибки обучения для AND:
+![image](https://user-images.githubusercontent.com/114181560/204036605-ef3e2669-a1c9-4f97-99ff-b866ad37bf81.png)
+
 
 График зависимости  количества эпох от ошибки обучения для NAND:
+![image](https://user-images.githubusercontent.com/114181560/204036623-e014577d-8dab-4ecd-a686-c5bed157fc79.png)
+
 
 График зависимости  количества эпох от ошибки обучения для XOR:
+![image](https://user-images.githubusercontent.com/114181560/204036636-f0027afe-6760-4eb5-99dd-81d81f59e7e9.png)
+
 
