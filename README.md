@@ -182,5 +182,5 @@ public class Perceptron : MonoBehaviour {
 
 ![image](https://user-images.githubusercontent.com/114181560/204036636-f0027afe-6760-4eb5-99dd-81d81f59e7e9.png)
 
-##Выводы
+## Выводы
 В данной лабораторной работе мы научились реализовывать обучение перцептрона для разных логических операций.
